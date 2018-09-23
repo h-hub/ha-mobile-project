@@ -1,5 +1,7 @@
 {
   "name": "ha-mobile-project",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
